@@ -1,0 +1,43 @@
+{
+	"listofMLAS": [{
+		"constiuency": "Sira",
+		"MLA": "B satyanarayana",
+		"party": "JD(S)"
+	}, {
+		"constiuency": "madhugiri",
+		"MLA": "M Veerabhadriaha",
+		"party": "JD(S)"
+	}, {
+		"constiuency": "Tumkur Rural",
+		"MLA": "Gowri shankar",
+		"party": "JD(S)"
+	}, {
+		"constiuency": "Turuvekere",
+		"MLA": "R Srinivas(vasu)",
+		"party": "JD(S)"
+	}, {
+		"constiuency": "Pavagada",
+		"MLA": "Venkataramanappa",
+		"party": "INC"
+	}, {
+		"constiuency": "Kunigal",
+		"MLA": "Dr. Ranganath",
+		"party": "INC"
+	}, {
+		"constiuency": "Koratagere",
+		"MLA": "Dr. G Parameshwar",
+		"party": "INC"
+	}, {
+		"constiuency": "Tipturu",
+		"MLA": "B C nagesh",
+		"party": "BJP"
+	}, {
+		"constiuency": "CN Halli",
+		"MLA": "J C Madhu Swami",
+		"party": "BJP"
+	}, {
+		"constiuency": "Tumkur",
+		"MLA": "G B Jyothi Ganesh",
+		"party": "BJP"
+	}]
+}
