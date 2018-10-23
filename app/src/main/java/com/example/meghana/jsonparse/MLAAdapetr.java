@@ -40,6 +40,7 @@ public class MLAAdapetr extends RecyclerView.Adapter<MLAAdapetr.ViewHolder> {
          Picasso.with(context).load(R.drawable.congress).into(holder.party);
      }else {
          Picasso.with(context).load(R.drawable.bjp).into(holder.party);
+         Picasso.with(context).load(R.drawable.bjp).into(holder.party);
      }
     }
 
